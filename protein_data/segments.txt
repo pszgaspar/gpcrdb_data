@@ -1,4 +1,25 @@
 N-term terminus 0 "N-terminus" GPCR
+H1 helix 1 "ECD H1" GPCR
+h1s1 loop 0 "ECD h1s1" GPCR
+S1 sheet 1 "ECD S1" GPCR
+T1 turn 1 "ECD T1" GPCR
+S2 sheet 1 "ECD S2" GPCR
+T2 turn 1 "ECD T2" GPCR
+S3 sheet 1 "ECD S3" GPCR
+H2 helix 1 "ECD H2" GPCR
+T3 turn 1 "ECD T3" GPCR
+S4 sheet 1 "ECD S4" GPCR
+T4 turn 1 "ECD T4" GPCR
+H3 helix 1 "ECD H3" GPCR
+h3t5 loop 0 "ECD h3t5" GPCR
+T5 turn 1 "ECD T5" GPCR
+S5 sheet 1 "ECD S5" GPCR
+T6 turn 1 "ECD T6" GPCR
+S6 sheet 1 "ECD S6" GPCR
+s6s7 loop 0 "ECD s6s7" GPCR
+S7 sheet 1 "ECD S7" GPCR
+H4 helix 1 "ECD H4" GPCR
+h4tm1 loop 0 "ECD h4tm1" GPCR
 D1S1 sheet 1 "Class D1 sheet 1" GPCR
 D1T1 turn 1 "Class D1 turn 1" GPCR
 D1S2 sheet 1 "Class D1 sheet 2" GPCR
