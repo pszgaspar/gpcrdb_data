@@ -510,7 +510,7 @@ Class F (Frizzled) | gpcrdbf
             "gpcr","25","Class Frizzled GPCRs","237","FZD<sub>9</sub>","","","","CD349|FZD3|frizzled family receptor 9|FZD9","4047","FZD9","frizzled class receptor 9","7q11.23","NM_003508","NP_003499","O00144","8326","628817","Fzd9","frizzled class receptor 9","12q12","NM_153305","NP_695217","Q8K4C8","266608","MGI:1313278","Fzd9","frizzled class receptor 9","5 G2","NM_010246","NP_034376","Q9R216","14371"
             "gpcr","25","Class Frizzled GPCRs","238","FZD<sub>10</sub>","","","","CD350|Fz-10","4039","FZD10","frizzled class receptor 10","12q24.33","NM_007197","NP_009128","Q9ULW2","11211","","","","","","","","","MGI:2136761","Fzd10","frizzled class receptor 10","5 G1.3","NM_175284","NP_780493","Q8BKG4","93897"
             "gpcr","25","Class Frizzled GPCRs","239","SMO","","","","SMOH|FZD11|frizzled family member 11|bnb|smoothened, frizzled class receptor|smoothened","11119","SMO","smoothened, frizzled class receptor","7q32.3","NM_005631","NP_005622","Q99835","6608","3726","Smo","smoothened, frizzled class receptor","4q22","NM_012807","NP_036939","P97698","25273","MGI:108075","Smo","smoothened, frizzled class receptor","6 A3.3","NM_176996","NP_795970","P56726","319757"
-Class T (Taste 2) | gpcrdba
+Class T (Taste 2) | gpcrdbt
     Sensory receptors
         Taste 2 receptors
             "gpcr","117","Taste 2 receptors","659","<i>TAS2R1</i>","","","","T2R1|TRB7|taste receptor, type 2, member 1","14909","TAS2R1","taste 2 receptor member 1","","NM_019599","","Q9NYW7","50834","","","","","","","","","","","","","","","",""

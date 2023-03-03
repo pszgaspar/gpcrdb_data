@@ -7,8 +7,10 @@ ICL1 loop 0 "Intracellular loop 1" GPCR
 TM2 helix 1 "Transmembrane helix 2" GPCR
 ECL1 loop 0 "Extracellular loop 1" GPCR
 D1e1 loop 0 "Class D1 Extracellular loop 1" GPCR
+EL1T2 loop 0 "Extracellular loop 1 Taste2" GPCR
 TM3 helix 1 "Transmembrane helix 3" GPCR
 ICL2 loop 0 "Intracellular loop 2" GPCR
+IL2T2 loop 0 "Intracellular loop 2 Taste2" GPCR
 TM4 helix 1 "Transmembrane helix 4" GPCR
 ECL2 loop 0 "Extracellular loop 2" GPCR
 TM5 helix 1 "Transmembrane helix 5" GPCR
