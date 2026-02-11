@@ -17215,3 +17215,36 @@ a0a9l0jpp9_equas:
   UniProt: a0a9l0jpp9_equas
   Xtal Templ: a0a9l0jpp9_equas
   Xtalised: Xtal
+vn1r1_human:
+  2x551: 2x551
+  4x58: 4x58
+  7x44: 7x44
+  UniProt: vn1r1_human
+  Xtal Templ: vn1r1_human
+  Xtalised: NoXtal
+vn1r2_human:
+  2x551: 2x551
+  4x58: 4x58
+  7x44: 7x44
+  UniProt: vn1r2_human   
+  Xtal Templ: vn1r2_human
+  Xtalised: NoXtal
+vn1r3_human:
+  2x551: 2x551
+  4x58: 4x58
+  7x44: 7x44
+  UniProt: vn1r3_human   
+  Xtal Templ: vn1r3_human
+  Xtalised: NoXtal
+vn1r4_human:
+  2x551: 2x551
+  4x58: 4x58
+  7x44: 7x44
+  UniProt: vn1r4_human   
+  Xtal Templ: vn1r4_human
+  Xtalised: NoXtal
+vn1r5_human:
+  7x44: 7x44
+  UniProt: vn1r5_human   
+  Xtal Templ: vn1r5_human
+  Xtalised: NoXtal
