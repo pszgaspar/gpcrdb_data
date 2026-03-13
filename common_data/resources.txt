@@ -12,3 +12,4 @@ chembl_assays "ChEMBL Assays ids"   https://www.ebi.ac.uk/chembl/assay/inspect/$
 drugbank	DrugBank	    https://go.drugbank.com/drugs/$index
 drug_central	"Drug Central"	    https://drugcentral.org/drugcard/$index
 raw_link    URL   $index
+entrez_gene	"NCBI Entrez Gene"	    https://www.ncbi.nlm.nih.gov/gene/$index
