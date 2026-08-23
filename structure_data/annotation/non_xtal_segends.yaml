@@ -5354,7 +5354,7 @@ cnr2_human:
   i2e: 145.0
   i2e-4b: 1.0
   i2x: 138.0
-crfr1_human:
+crhr1_human:
   1b: 103.0
   1e: 144.0
   1e-i1b: 1.0
@@ -5387,7 +5387,7 @@ crfr1_human:
   8e: 392.0
   8x: 370.0
   Cl: B1
-  Xtal Templ: crfr1_human
+  Xtal Templ: crhr1_human
   e1b: '-'
   e1e: '-'
   e1e-3b: '-'
@@ -5404,7 +5404,7 @@ crfr1_human:
   i2e: '-'
   i2e-4b: '-'
   i2x: '-'
-crfr2_human:
+crhr2_human:
   1b: 100.0
   1e: 141.0
   1e-i1b: 1.0
@@ -5437,7 +5437,7 @@ crfr2_human:
   8e: 388.0
   8x: 366.0
   Cl: B1
-  Xtal Templ: crfr2_human
+  Xtal Templ: crhr2_human
   e1b: '-'
   e1e: '-'
   e1e-3b: '-'
@@ -8857,7 +8857,7 @@ gp157_human:
   i2e: '-'
   i2e-4b: '-'
   i2x: '-'
-gp158_human:
+mglyr_human:
   1b: 413.0
   1e: 441.0
   1e-i1b: 3.0
@@ -8890,7 +8890,7 @@ gp158_human:
   8e: 685.0
   8x: 678.0
   Cl: C
-  Xtal Templ: gp158_human
+  Xtal Templ: mglyr_human
   e1b: '-'
   e1e: '-'
   e1e-3b: '-'
@@ -9290,7 +9290,7 @@ gp179_human:
   8e: 649.0
   8x: 642.0
   Cl: C
-  Xtal Templ: gp158_human
+  Xtal Templ: mglyr_human
   e1b: '-'
   e1e: '-'
   e1e-3b: '-'
@@ -21723,7 +21723,7 @@ o8g2p_human:
   i2b: 142
   i2e: 149
   i2x: 142
-ogr1_human:
+gpr68_human:
   1b: 17.0
   1e: 52.0
   1e-i1b: 1.0
@@ -32868,7 +32868,7 @@ prlhr_human:
   i2e: 169.0
   i2e-4b: 3.0
   i2x: 166.0
-psyr_human:
+gpr65_human:
   1b: 6.0
   1e: 45.0
   1e-i1b: '-'
@@ -33118,7 +33118,7 @@ q08bg4_danre:
   i2e: 138.0
   i2e-4b: 1.0
   i2x: 131.0
-q3ksp2_ebvg:
+q3ksp2_ebv:
   1b: 33.0
   1e: 61.0
   1e-i1b: 1.0
@@ -33151,7 +33151,7 @@ q3ksp2_ebvg:
   8e: 301.0
   8x: 289.0
   Cl: A
-  Xtal Templ: q3ksp2_ebvg
+  Xtal Templ: q3ksp2_ebv
   e1b: '-'
   e1e: '-'
   e1e-3b: '-'
@@ -33274,7 +33274,7 @@ q6fly8_canga:
   i3b: '-'
   i3e: '-'
   i3x: '-'
-q80km9_hcmv:
+us28_hcmvt:
   1b: 25.0
   1e: 61.0
   1e-i1b: 1.0
@@ -33307,7 +33307,7 @@ q80km9_hcmv:
   8e: 310.0
   8x: 298.0
   Cl: A
-  Xtal Templ: q80km9_hcmv
+  Xtal Templ: us28_hcmvt
   e1b: '-'
   e1e: '-'
   e1e-3b: '-'
@@ -33430,7 +33430,7 @@ q8wzm9_sorma:
   i3b: '-'
   i3e: '-'
   i3x: '-'
-q98sw5_xenla:
+smos_xenla:
   1b: 196.0
   1e: 228.0
   1e-i1b: 1.0
@@ -33463,7 +33463,7 @@ q98sw5_xenla:
   8e: 526.0
   8x: 514.0
   Cl: F
-  Xtal Templ: q98sw5_xenla
+  Xtal Templ: smos_xenla
   e1b: '-'
   e1e: '-'
   e1e-3b: '-'
@@ -36598,7 +36598,7 @@ tpra1_human:
   8e: '-'
   8x: '-'
   Cl: O
-  Xtal Templ: q3ksp2_ebvg
+  Xtal Templ: q3ksp2_ebv
   e1b: '-'
   e1e: '-'
   e1e-3b: '-'
@@ -37857,7 +37857,7 @@ gpr4_danre:
   i2b: 130
   i2e: 137
   i2x: 130
-q76sf8_hhv8:
+vgpcr_hhv8p:
   1b: 46
   1e: 79
   1x: 65

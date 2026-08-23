@@ -3603,9 +3603,9 @@ cnr2_human:
     '4.59': L
     '4.60': P
     '5.46': F
-crfr1_human:
-    UniProt: crfr1_human
-    Xtal Templ: crfr1_human
+crhr1_human:
+    UniProt: crhr1_human
+    Xtal Templ: crhr1_human
     Cl: B1
     Xtalised: Xtal
     1x36: ''
@@ -3638,9 +3638,9 @@ crfr1_human:
     '4.59': A
     '4.60': W
     '5.46': P
-crfr2_human:
-    UniProt: crfr2_human
-    Xtal Templ: crfr2_human
+crhr2_human:
+    UniProt: crhr2_human
+    Xtal Templ: crhr2_human
     Cl: B1
     Xtalised: Xtal
     1x36: ''
@@ -6018,9 +6018,9 @@ gp157_human:
     '4.59': K
     '4.60': I
     '5.46': D
-gp158_human:
-    UniProt: gp158_human
-    Xtal Templ: gp158_human
+mglyr_human:
+    UniProt: mglyr_human
+    Xtal Templ: mglyr_human
     Cl: C
     Xtalised: Xtal
     1x36: ''
@@ -6300,7 +6300,7 @@ gp176_human:
     '5.46': T
 gp179_human:
     UniProt: gp179_human
-    Xtal Templ: gp158_human
+    Xtal Templ: mglyr_human
     Cl: C
     Xtalised: NoXtal
     1x36: ''
@@ -10270,8 +10270,8 @@ ntr2_human:
     '4.59': P
     '4.60': M
     '5.46': S
-ogr1_human:
-    UniProt: ogr1_human
+gpr68_human:
+    UniProt: gpr68_human
     Xtal Templ: ccr1_human
     Cl: A
     Xtalised: NoXtal
@@ -11915,8 +11915,8 @@ prlhr_human:
     '4.59': P
     '4.60': A
     '5.46': T
-psyr_human:
-    UniProt: psyr_human
+gpr65_human:
+    UniProt: gpr65_human
     Xtal Templ: cxcr2_human
     Cl: A
     Xtalised: NoXtal
@@ -12090,9 +12090,9 @@ q08bg4_danre:
     '4.59': P
     '4.60': T
     '5.46': G
-q3ksp2_ebvg:
-    UniProt: q3ksp2_ebvg
-    Xtal Templ: q3ksp2_ebvg
+q3ksp2_ebv:
+    UniProt: q3ksp2_ebv
+    Xtal Templ: q3ksp2_ebv
     Cl: A
     Xtalised: Xtal
     1x36: ''
@@ -12125,9 +12125,9 @@ q3ksp2_ebvg:
     '4.59': I
     '4.60': L
     '5.46': C
-q80km9_hcmv:
-    UniProt: q80km9_hcmv
-    Xtal Templ: q80km9_hcmv
+us28_hcmvt:
+    UniProt: us28_hcmvt
+    Xtal Templ: us28_hcmvt
     Cl: A
     Xtalised: Xtal
     1x36: ''
@@ -12160,9 +12160,9 @@ q80km9_hcmv:
     '4.59': P
     '4.60': H
     '5.46': A
-q98sw5_xenla:
-    UniProt: q98sw5_xenla
-    Xtal Templ: q98sw5_xenla
+smos_xenla:
+    UniProt: smos_xenla
+    Xtal Templ: smos_xenla
     Cl: F
     Xtalised: Xtal
     1x36: ''
@@ -14227,7 +14227,7 @@ taa7f_mouse:
     '5.46': L
 tpra1_human:
     UniProt: tpra1_human
-    Xtal Templ: q3ksp2_ebvg
+    Xtal Templ: q3ksp2_ebv
     Cl: O
     Xtalised: NoXtal
     1x36: ''
@@ -17191,10 +17191,10 @@ gpr4_danre:
   UniProt: gpr4_danre
   Xtal Templ: gpr4_danre
   Xtalised: NoXtal
-q76sf8_hhv8:
+vgpcr_hhv8p:
   7x44: 7x44
-  UniProt: q76sf8_hhv8
-  Xtal Templ: q76sf8_hhv8
+  UniProt: vgpcr_hhv8p
+  Xtal Templ: vgpcr_hhv8p
   Xtalised: NoXtal
 opsx_human:
   2x551: 2x551
