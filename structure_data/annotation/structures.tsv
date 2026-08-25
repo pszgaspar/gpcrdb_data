@@ -347,7 +347,7 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 8HDP	aa2br_human	ELECTRON MICROSCOPY	3.2	Active	R		2023-01-18	E		
 8HJ5	mrgx1_human	ELECTRON MICROSCOPY	3.0	Active	F		2023-05-31	E		
 8HN1	ada1a_human	ELECTRON MICROSCOPY	2.9	Inactive	A		2023-12-20	B		
-8HTI	or52c_human	ELECTRON MICROSCOPY	2.97	Active	R		2023-12-20	E		
+8HTI	o52e4_human	ELECTRON MICROSCOPY	2.97	Active	R		2023-12-20	E		
 8I2G	fshr_human	ELECTRON MICROSCOPY	2.8	Active	R		2023-03-29	E		
 8I9A	c3ar_human	ELECTRON MICROSCOPY	3.57	Active	C		2023-10-18	E		
 8IA7	gasr_human	ELECTRON MICROSCOPY	3.1	Active	R		2023-12-06	A		
@@ -365,7 +365,7 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 8IW9	taar9_mouse	ELECTRON MICROSCOPY	3.08	Active	R		2023-05-31	D		
 8IZ4	gpr34_human	ELECTRON MICROSCOPY	2.93	Active	R		2024-04-10	E		
 8IZB	gp174_human	ELECTRON MICROSCOPY	3.06	Active	R		2023-11-01	E		
-8J46	or52c_human	ELECTRON MICROSCOPY	3.66	Inactive	A		2023-12-20	A		
+8J46	o52e4_human	ELECTRON MICROSCOPY	3.66	Inactive	A		2023-12-20	A		
 8J9N	fzd1_human	ELECTRON MICROSCOPY	3.5	Active	B		2024-01-17	A		
 8JBF	nk3r_human	ELECTRON MICROSCOPY	3.0	Active	B		2024-02-28	A		
 8JBG	nk3r_human	ELECTRON MICROSCOPY	2.8	Active	B		2024-02-07	A		
@@ -423,17 +423,17 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 8U4S	cxcr4_human	ELECTRON MICROSCOPY	3.35	Other	C	[HOMOMER: chains C, G, R] [DB TRUNCATION: AI correctly identified chains C, G, R, but DB requires 1. Auto-selected primary chain C based on: Homomer (3 identical GPCR chains) — Rank 4: Preserving AI's originally correct choice (Chain C)] [WARNING: Ligands are bound to truncated chains G, R!]	2024-03-13	F	cxcr4_human	G, R
 8UHB	taar1_human	ELECTRON MICROSCOPY	3.35	Active	A		2024-01-10	A		
 8UWL	5ht2a_human	ELECTRON MICROSCOPY	2.8	Active	A		2024-05-29	A		
-8UXV	consor51	ELECTRON MICROSCOPY	3.2	Active	A		2024-10-30	E		
-8UXY	consor1_human	ELECTRON MICROSCOPY	3.3	Active	A		2024-10-30	E		
-8UY0	consor2	ELECTRON MICROSCOPY	3.2	Active	A		2024-10-30	A		
-8UYQ	consor4	ELECTRON MICROSCOPY	3.5	Active	A		2024-10-30	A		
+8UXV	o51g2_human	ELECTRON MICROSCOPY	3.2	Active	A		2024-10-30	E		
+8UXY	or1f1_human	ELECTRON MICROSCOPY	3.3	Active	A		2024-10-30	E		
+8UY0	or2t2_human	ELECTRON MICROSCOPY	3.2	Active	A		2024-10-30	A		
+8UYQ	or4d5_human	ELECTRON MICROSCOPY	3.5	Active	A		2024-10-30	A		
 8V6U	5ht2a_human	ELECTRON MICROSCOPY	3.0	Active	A		2024-05-29	A		
 8VJ9	ackr3_human	ELECTRON MICROSCOPY	3.3	Active	R		2025-01-22	C		
 8VTI	agrl3_human	ELECTRON MICROSCOPY	3.9	Inactive	B	Atomic model includes the extracellular domains (HormR and GAIN) and the sAB LK3; the 7TM domain is present in the construct but was not resolved in the final high-resolution map. [CHAIN CORRECTED: A, B -> B, reason: HALLUCINATION] [HALLUCINATION] at 'oligomer_analysis': AI selected chain(s) ['A'] which are NOT in the GPCR roster (roster: ['B']). The AI may have picked a G protein, nanobody, or other non-GPCR chain.	2024-12-11	B		
 8VVG	oprk_human	ELECTRON MICROSCOPY	3.3	Active	A		2025-01-15	A		
 8VY9	t2r14_human	ELECTRON MICROSCOPY	2.88	Active	R		2024-04-03	E		
 8W1V	adrb2_human	X-RAY DIFFRACTION	3.0	Inactive	A	[HOMOMER: chains A, B] [DB TRUNCATION: AI correctly identified chains A, B, but DB requires 1. Auto-selected primary chain A based on: Homomer (2 identical GPCR chains) — Rank 4: Preserving AI's originally correct choice (Chain A)] [WARNING: Ligands are bound to truncated chains B!]	2024-07-17	A	adrb2_human	B
-8W77	or52c_human	ELECTRON MICROSCOPY	3.61	Inactive	A		2023-12-20	A		
+8W77	o52e4_human	ELECTRON MICROSCOPY	3.61	Inactive	A		2023-12-20	A		
 8W8R	gp101_human	ELECTRON MICROSCOPY	3.3	Active	R		2024-01-03	C		
 8W8X	mc3r_human	ELECTRON MICROSCOPY	2.9	Active	R		2025-03-19	E		
 8WA3	gipr_human	ELECTRON MICROSCOPY	2.86	Active	R		2024-03-06	A		
@@ -444,7 +444,7 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 8WG9	grm4_human	ELECTRON MICROSCOPY	4.46	Intermediate	B	[HETEROMER: chains B, C] [MISSED_PROTOMER] at 'oligomer_analysis': GPCR roster has chains ['B', 'C'] but AI only reported ['B']. Missed: ['C'].	2024-11-27	A	grm2_human	C
 8WGB	grm4_human	ELECTRON MICROSCOPY	3.7	Active	R	[HETEROMER: chains B, R] [MISSED_PROTOMER] at 'oligomer_analysis': GPCR roster has chains ['B', 'R'] but AI only reported ['R']. Missed: ['B'].	2024-10-30	E	grm2_human	B
 8WGC	grm2_human	ELECTRON MICROSCOPY	5.95	Intermediate	D	[HETEROMER: chains A, D] [MISSED_PROTOMER] at 'oligomer_analysis': GPCR roster has chains ['A', 'D'] but AI only reported ['D']. Missed: ['A'].	2024-11-27	A	grm4_human	A
-8WGD	grm2_human	ELECTRON MICROSCOPY	4.45	Inactive	C	[HETEROMER: chains B, C] [MISSED_PROTOMER] at 'oligomer_analysis': GPCR roster has chains ['B', 'C'] but AI only reported ['C']. Missed: ['B'].	2024-11-27	A	grm4_human	B
+8WGD	grm4_human	ELECTRON MICROSCOPY	4.45	Inactive	C	[HETEROMER: chains B, C] [MISSED_PROTOMER] at 'oligomer_analysis': GPCR roster has chains ['B', 'C'] but AI only reported ['C']. Missed: ['B'].	2024-11-27	A	grm4_human	B
 8WJX	p2ry1_human	ELECTRON MICROSCOPY	3.2	Active	R		2024-10-02	E		
 8WM9	fzd4_human	ELECTRON MICROSCOPY	3.53	Active	A	CRD-truncated receptor; engineered with M309L, C450I, C507F, S508Y mutations; stabilized by NanoBiT fusions. [HOMOMER: chains A, B] [DB TRUNCATION: AI correctly identified chains A, B, but DB requires 1. Auto-selected primary chain A based on: Homomer (2 identical GPCR chains) — Rank 4: Preserving AI's originally correct choice (Chain A)]	2024-09-11	A	fzd4_human	B
 8WMA	fzd4_human	ELECTRON MICROSCOPY	3.47	Active	A	Local refined active protomer; FZD4 is CRD-truncated and contains M309L, C450I, C507F, and S508Y mutations.	2024-09-11	A		
@@ -635,10 +635,10 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 9L74	s1pr3_human	ELECTRON MICROSCOPY	3.73	Active	R		2025-11-26	F		
 9L84	adrb1_human	ELECTRON MICROSCOPY	3.22	Active	R		2025-12-31	E		
 9L8L	adrb2_human	ELECTRON MICROSCOPY	3.22	Active	R	Megacomplex structure of ADRB2 bound to G protein and beta-arrestin. The receptor contains three mutations (K6.35R, G6.38S, I6.39V) to mimic GPR119.	2025-12-31	E		
-9LDV	consor6	ELECTRON MICROSCOPY	2.78	Active	R	Complex of consensus olfactory receptor with engineered mini-Golf protein.	2026-01-28	D		
-9LDW	consor6_human	ELECTRON MICROSCOPY	2.62	Active	R		2026-01-28	D		
-9LDX	consor6_human	ELECTRON MICROSCOPY	2.83	Active	R		2026-01-28	D		
-9LDZ	consor6	ELECTRON MICROSCOPY	3.17	Active	R		2026-01-28	D		
+9LDV	o6c76_human	ELECTRON MICROSCOPY	2.78	Active	R	Complex of consensus olfactory receptor with engineered mini-Golf protein.	2026-01-28	D		
+9LDW	o6c76_human	ELECTRON MICROSCOPY	2.62	Active	R		2026-01-28	D		
+9LDX	o6c76_human	ELECTRON MICROSCOPY	2.83	Active	R		2026-01-28	D		
+9LDZ	o6c76_human	ELECTRON MICROSCOPY	3.17	Active	R		2026-01-28	D		
 9LE0	or6a2_human	ELECTRON MICROSCOPY	2.54	Active	R		2026-01-28	E		
 9LE1	or6a2_human	ELECTRON MICROSCOPY	3.3	Active	R		2026-01-28	C		
 9LE2	or6a2_human	ELECTRON MICROSCOPY	3.33	Active	R		2026-01-28	C		
@@ -744,7 +744,7 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 9WEY	ul33_hcmva	ELECTRON MICROSCOPY	3.3	Active	R		2026-02-25	E		
 9WG4	or52_human	ELECTRON MICROSCOPY	3.29	Active	R		2026-06-17	B		
 9WP9	s1pr3_human	ELECTRON MICROSCOPY	3.25	Active	R		2025-11-26	F		
-9WPM	or5_consensus	ELECTRON MICROSCOPY	2.6	Active	A		2026-01-28	A		
+9WPM	o5b21_human	ELECTRON MICROSCOPY	2.6	Active	A		2026-01-28	A		
 9WQL	grm5_human	ELECTRON MICROSCOPY	3.2	Active	X	[HOMOMER: chains X, Y] [DB TRUNCATION: AI correctly identified chains X, Y, but DB requires 1. Auto-selected primary chain X based on: Homomer (2 identical GPCR chains) — Rank 2: Ligand binds exclusively to GPCR Chain X] [WARNING: Ligands are bound to truncated chains Y!]	2026-05-27	A	grm5_human	Y
 9WQM	grm1_human	ELECTRON MICROSCOPY	3.3	Active	X	[HOMOMER: chains X, Y] [DB TRUNCATION: AI correctly identified chains X, Y, but DB requires 1. Auto-selected primary chain X based on: Homomer (2 identical GPCR chains) — Rank 0: G protein-coupling protomer (structure geometry) on Chain X] [WARNING: Ligands are bound to truncated chains Y!]	2026-05-27	D	grm1_human	Y
 9WQN	grm1_human	ELECTRON MICROSCOPY	3.7	Active	X	[HOMOMER: chains X, Y] [DB TRUNCATION: AI correctly identified chains X, Y, but DB requires 1. Auto-selected primary chain X based on: Homomer (2 identical GPCR chains) — Rank 2: Ligand binds exclusively to GPCR Chain X] [WARNING: Ligands are bound to truncated chains Y!]	2026-05-27	A	grm1_human	Y
@@ -1447,8 +1447,8 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 7V68	acm4_human	ELECTRON MICROSCOPY	3.4	Active	R		2022-05-11	E		
 7V69	acm4_human	ELECTRON MICROSCOPY	3.4	Active	R		2022-05-11	E		
 7V6A	acm4_human	ELECTRON MICROSCOPY	3.6	Active	R		2022-05-11	E		
-7V9L	q9hb45_human	ELECTRON MICROSCOPY	2.6	Active	R		2022-04-06	B		
-7V9M	q9hb45_human	ELECTRON MICROSCOPY	3.29	Active	R	Structure of GHRH receptor splice variant 1 (SV1) in an active-state complex.	2021-10-20	E		
+7V9L	ghrhr_human	ELECTRON MICROSCOPY	2.6	Active	R		2022-04-06	B		
+7V9M	ghrhr_human	ELECTRON MICROSCOPY	3.29	Active	R	Structure of GHRH receptor splice variant 1 (SV1) in an active-state complex.	2021-10-20	E		
 7VAB	gipr_human	ELECTRON MICROSCOPY	3.2	Active	R		2022-03-02	A		
 7VBH	glp1r_human	ELECTRON MICROSCOPY	3.0	Active	R		2022-04-06	D		
 7VBI	glp1r_human	ELECTRON MICROSCOPY	3.0	Active	R		2022-03-02	D		
@@ -1829,7 +1829,7 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 8JCY	grm2_human	ELECTRON MICROSCOPY	2.9	Inactive	2	[HETEROMER: chains 2, 3] [DB TRUNCATION: AI correctly identified chains 2, 3, but DB requires 1. Auto-selected primary chain 2 based on: Rank 4: Preserving AI's originally correct choice (Chain 2)] [WARNING: Ligands are bound to truncated chains 3!]	2023-06-21	A	grm3_human	3
 8JCZ	grm2_human	ELECTRON MICROSCOPY	3.0	Inactive	2	[HETEROMER: chains 2, 3] [DB TRUNCATION: AI correctly identified chains 2, 3, but DB requires 1. Auto-selected primary chain 2 based on: Rank 4: Preserving AI's originally correct choice (Chain 2)] [WARNING: Ligands are bound to truncated chains 3!]	2023-06-21	A	grm3_human	3
 8JD0	grm2_human	ELECTRON MICROSCOPY	3.3	Intermediate	2	[HETEROMER: chains 2, 3] [DB TRUNCATION: AI correctly identified chains 2, 3, but DB requires 1. Auto-selected primary chain 2 based on: Rank 4: Preserving AI's originally correct choice (Chain 2)] [WARNING: Ligands are bound to truncated chains 3!]	2023-06-21	A	grm3_human	3
-8JD1	grm3_human	ELECTRON MICROSCOPY	3.7	Intermediate	3	[HETEROMER: chains 2, 3] [DB TRUNCATION: AI correctly identified chains 2, 3, but DB requires 1. Auto-selected primary chain 3 based on: Rank 2: Ligand binds exclusively to GPCR Chain 3] [WARNING: Ligands are bound to truncated chains 2!]	2023-06-21	B	grm2_human	2
+8JD1	grm2_human	ELECTRON MICROSCOPY	3.7	Intermediate	3	[HETEROMER: chains 2, 3] [DB TRUNCATION: AI correctly identified chains 2, 3, but DB requires 1. Auto-selected primary chain 3 based on: Rank 2: Ligand binds exclusively to GPCR Chain 3] [WARNING: Ligands are bound to truncated chains 2!]	2023-06-21	B	grm2_human	2
 8JD2	grm2_human	ELECTRON MICROSCOPY	2.8	Active	2	[HETEROMER: chains 2, 3] [DB TRUNCATION: AI correctly identified chains 2, 3, but DB requires 1. Auto-selected primary chain 2 based on: Rank 4: Preserving AI's originally correct choice (Chain 2)] [WARNING: Ligands are bound to truncated chains 3!]	2023-06-21	A	grm3_human	3
 8JD4	grm2_human	ELECTRON MICROSCOPY	2.9	Active	2	[HETEROMER: chains 2, 4] [DB TRUNCATION: AI correctly identified chains 2, 4, but DB requires 1. Auto-selected primary chain 2 based on: Rank 4: Preserving AI's originally correct choice (Chain 2)] [WARNING: Ligands are bound to truncated chains 4!]	2023-06-21	A	grm4_human	4
 8JD6	grm4_human	ELECTRON MICROSCOPY	3.4	Active	R	[HOMOMER: chains R, S] [DB TRUNCATION: AI correctly identified chains R, S, but DB requires 1. Auto-selected primary chain R based on: Homomer (2 identical GPCR chains) — Rank 0: G protein-coupling protomer (structure geometry) on Chain R] [WARNING: Ligands are bound to truncated chains S!]	2023-06-21	B	grm4_human	S
