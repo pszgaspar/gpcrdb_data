@@ -416,10 +416,6 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 8TH3	agtr1_human	ELECTRON MICROSCOPY	3.0	Inactive	A	[HOMOMER: chains A, B] [MISSED_PROTOMER] at 'oligomer_analysis': GPCR roster has chains ['A', 'B'] but AI only reported ['A']. Missed: ['B'].	2024-05-22	A	agtr1_human	B
 8THK	ada1a_human	ELECTRON MICROSCOPY	2.6	Active	R		2023-08-16	E		
 8THL	ada1a_human	ELECTRON MICROSCOPY	3.1	Active	R		2023-08-16	E		
-8TII	ackr3_human	ELECTRON MICROSCOPY	3.0	Active	R		2025-01-22	E		
-8TIL	ackr3_human	ELECTRON MICROSCOPY	3.8	Active	R		2025-01-22	C		
-8TIN	ackr3_human	ELECTRON MICROSCOPY	4.0	Active	R		2025-01-22	D		
-8TIO	ackr3_human	ELECTRON MICROSCOPY	3.6	Active	R		2025-01-22	D		
 8U4S	cxcr4_human	ELECTRON MICROSCOPY	3.35	Other	C	[HOMOMER: chains C, G, R] [DB TRUNCATION: AI correctly identified chains C, G, R, but DB requires 1. Auto-selected primary chain C based on: Homomer (3 identical GPCR chains) — Rank 4: Preserving AI's originally correct choice (Chain C)] [WARNING: Ligands are bound to truncated chains G, R!]	2024-03-13	F	cxcr4_human	G, R
 8UHB	taar1_human	ELECTRON MICROSCOPY	3.35	Active	A		2024-01-10	A		
 8UWL	5ht2a_human	ELECTRON MICROSCOPY	2.8	Active	A		2024-05-29	A		
@@ -428,8 +424,6 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 8UY0	or2t2_human	ELECTRON MICROSCOPY	3.2	Active	A		2024-10-30	A		
 8UYQ	or4d5_human	ELECTRON MICROSCOPY	3.5	Active	A		2024-10-30	A		
 8V6U	5ht2a_human	ELECTRON MICROSCOPY	3.0	Active	A		2024-05-29	A		
-8VJ9	ackr3_human	ELECTRON MICROSCOPY	3.3	Active	R		2025-01-22	C		
-8VTI	agrl3_human	ELECTRON MICROSCOPY	3.9	Inactive	B	Atomic model includes the extracellular domains (HormR and GAIN) and the sAB LK3; the 7TM domain is present in the construct but was not resolved in the final high-resolution map. [CHAIN CORRECTED: A, B -> B, reason: HALLUCINATION] [HALLUCINATION] at 'oligomer_analysis': AI selected chain(s) ['A'] which are NOT in the GPCR roster (roster: ['B']). The AI may have picked a G protein, nanobody, or other non-GPCR chain.	2024-12-11	B		
 8VVG	oprk_human	ELECTRON MICROSCOPY	3.3	Active	A		2025-01-15	A		
 8VY9	t2r14_human	ELECTRON MICROSCOPY	2.88	Active	R		2024-04-03	E		
 8W1V	adrb2_human	X-RAY DIFFRACTION	3.0	Inactive	A	[HOMOMER: chains A, B] [DB TRUNCATION: AI correctly identified chains A, B, but DB requires 1. Auto-selected primary chain A based on: Homomer (2 identical GPCR chains) — Rank 4: Preserving AI's originally correct choice (Chain A)] [WARNING: Ligands are bound to truncated chains B!]	2024-07-17	A	adrb2_human	B
@@ -740,9 +734,9 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 9W33	ssr5_human	ELECTRON MICROSCOPY	2.69	Inactive	A	[HOMOMER: chains A, B] [DB TRUNCATION: AI correctly identified chains A, B, but DB requires 1. Auto-selected primary chain A based on: Homomer (2 identical GPCR chains) — Rank 4: Preserving AI's originally correct choice (Chain A)] [WARNING: Ligands are bound to truncated chains B!]	2026-01-21	A	ssr5_human	B
 9W3K	gp151_human	ELECTRON MICROSCOPY	3.08	Inactive	A		2026-05-06	D		
 9W45	q7trw7_mouse	ELECTRON MICROSCOPY	3.2	Active	R		2026-03-04	E		
-9WDI	e9qq21_mouse	ELECTRON MICROSCOPY	3.33	Active	A	[HOMOMER: chains A, C] [DB TRUNCATION: AI correctly identified chains A, C, but DB requires 1. Auto-selected primary chain A based on: Homomer (2 identical GPCR chains) — Rank 4: Preserving AI's originally correct choice (Chain A)]	2026-07-01	A	e9qq21_mouse	C
+9WDI	c5ar2_mouse	ELECTRON MICROSCOPY	3.33	Active	A	[HOMOMER: chains A, C] [DB TRUNCATION: AI correctly identified chains A, C, but DB requires 1. Auto-selected primary chain A based on: Homomer (2 identical GPCR chains) — Rank 4: Preserving AI's originally correct choice (Chain A)]	2026-07-01	A	c5ar2_mouse	C
 9WEY	ul33_hcmva	ELECTRON MICROSCOPY	3.3	Active	R		2026-02-25	E		
-9WG4	or52_human	ELECTRON MICROSCOPY	3.29	Active	R		2026-06-17	B		
+9WG4	o52e8_human	ELECTRON MICROSCOPY	3.29	Active	R		2026-06-17	B		
 9WP9	s1pr3_human	ELECTRON MICROSCOPY	3.25	Active	R		2025-11-26	F		
 9WPM	o5b21_human	ELECTRON MICROSCOPY	2.6	Active	A		2026-01-28	A		
 9WQL	grm5_human	ELECTRON MICROSCOPY	3.2	Active	X	[HOMOMER: chains X, Y] [DB TRUNCATION: AI correctly identified chains X, Y, but DB requires 1. Auto-selected primary chain X based on: Homomer (2 identical GPCR chains) — Rank 2: Ligand binds exclusively to GPCR Chain X] [WARNING: Ligands are bound to truncated chains Y!]	2026-05-27	A	grm5_human	Y
@@ -2213,7 +2207,7 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 9EW2	fzd7_human	ELECTRON MICROSCOPY	3.2	Active	R		2024-10-02	E		
 9F33	drd3_human	ELECTRON MICROSCOPY	3.05	Active	R		2024-09-18	E		
 9F34	drd3_human	ELECTRON MICROSCOPY	3.09	Active	R		2024-09-18	E		
-9FTE	b8jje0_mouse	ELECTRON MICROSCOPY	3.82	Inactive	A		2026-01-14	A		
+9FTE	agrv1_mouse	ELECTRON MICROSCOPY	3.82	Inactive	A		2026-01-14	A		
 9FUP	aa2ar_human	X-RAY DIFFRACTION	2.5	Inactive	A		2025-01-22	A		
 9GE3	gpr55_human	ELECTRON MICROSCOPY	2.87	Active	R		2025-03-05	E		
 9H2X	aa2ar_human	X-RAY DIFFRACTION	1.75	Inactive	A		2025-06-18	A		

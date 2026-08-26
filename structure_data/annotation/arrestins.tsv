@@ -3,11 +3,6 @@ PDB	UniProt	ChainID	Note	label_asym_id
 6U1N	arrb1_rat	C	The M2R receptor was ligated with a V2R C-terminal phosphopeptide (V2Rpp) to facilitate recruitment and stabilization of beta-arrestin-1.	B
 6UP7	arrb1_human	B	Human beta-arrestin-1 truncated at residue 382 (beta-arrestin-1(delta-CT)).	B
 8JRV	arrb1_bovin	A	C-terminal fusion with scFv30. Engineered cysteine-free beta-arrestin 1 with mutations C59A, C125S, C140I, C150V, C242V, C251V, and C269S. Contains the preactivated mutation R169E.	C
-8TII	arrb1_bovin	A	Beta-arrestin-1 (Arr2*) with pre-activating mutations I386A, V387A, and F388A.	A
-8TIL	arrb2_bovin	A		D
-8TIN	arrb2_bovin	A		B
-8TIO	a0a4w2im57_bobox	A		A
-8VJ9	arrb2_bovin	A	Beta-arrestin-2 (Arr3) variant truncated after residue 392, with the C-edge loop (residues 334-341) from beta-arrestin-1 (Arr2) inserted to facilitate membrane anchoring.	D
 8WRZ	arrb1_human	A		A
 8ZYU	arrb1_human	B	Truncated at residue 382 to eliminate autoinhibition; constitutively active variant.	A
 9KUV	arrb1_human	A	Beta-arrestin 1 (cysteine-free variant) with R169E pre-activation mutation and a C-terminal fusion of scFv30.	A

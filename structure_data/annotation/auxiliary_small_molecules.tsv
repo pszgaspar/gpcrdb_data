@@ -477,7 +477,6 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 8TH3	A	Y01	Cholesterol hemisuccinate	Lipid		E, F	A:1401, A:1402
 8U4S	C, G, R	CLR	Cholesterol	Lipid	Cofactor	J, L, M, O, P, R	R:701, R:703, C:701, C:703, G:701, G:703
 8U4S	C, G, R	D21	(2r)-1-(hexadecanoyloxy)-3-(phosphonooxy)propan-2-yl (9z)-octadec-9-enoate	Other	Cofactor	K, N, Q	R:702, C:702, G:702
-8VTI	A	NAG	D-glcnac	Other		F	A:901
 8W1V	B	AV0	Lauryl maltose neopentyl glycol	Detergent		G	B:1202
 8WJX	R	CLR	Cholesterol	Lipid	Cofactor	G	R:602
 8WM9	A, B	Y01	Cholesterol hemisuccinate	Lipid		D, E, F, G, H, I, J, K, L, M	A:601, A:602, A:603, A:604, A:605, B:601, B:602, B:603, B:604, B:605

@@ -17276,17 +17276,10 @@ agre1_mouse:
   UniProt: agre1_mouse
   Xtal Templ: agre1_mouse
   Xtalised: NoXtal
-b8jje0_mouse:
+agrv1_mouse:
   7x44: 7x44
-  UniProt: b8jje0_mouse
-  Xtal Templ: b8jje0_mouse
-  Xtalised: NoXtal
-e9qq21_mouse:
-  4x58: 4x58
-  5x461: 5x461
-  7x44: 7x44
-  UniProt: e9qq21_mouse
-  Xtal Templ: e9qq21_mouse
+  UniProt: agrv1_mouse
+  Xtal Templ: agrv1_mouse
   Xtalised: NoXtal
 g5eg04_caeel:
   7x44: 7x44
