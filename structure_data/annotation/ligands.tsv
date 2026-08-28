@@ -691,7 +691,6 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9IYB	A	PG2	448457	Agonist	PROSTAGLANDIN D2	small-molecule	2024-12-04		G	CCCCC[C@@H](\C=C\[C@@H]1[C@H]([C@H](CC1=O)O)C\C=C/CCCC(=O)O)O	BHMBVRSPMRCCGG-OUTUXVNYSA-N		true	orthosteric	A:402
 9IZG	R	NKP	49837858	Agonist	18:1 LPA	lipid	2025-01-01		F	CCCCCCCC/C=C/CCCCCCCC(=O)OC[C@H](COP(=O)(O)O)O	WRGQSWVCFNIUNZ-SQUSKLHYSA-N		false	orthosteric	R:601
 9J5V	R	A1L3Q	154733035	Agonist	CpY	small-molecule	2024-11-27		F	CCc1c(c2cccc(c2o1)[C@H](CO)N(CC)CC)C	FXNNNICQCLNEPG-HNNXBMFYSA-N		false	orthosteric	R:601
-9J7I	B	pep		PAM	gamma-glutamyl-valyl-glycine	peptide	2025-02-19					EVG	unknown	extracellular_domain	
 9J87	A	F5U	1833	Agonist	5-Methoxytryptamine	small-molecule	2026-02-25		F	COc1ccc2c(c1)c(c[nH]2)CCN	JTEJPPKMYBDEMY-UHFFFAOYSA-N		false	orthosteric	A:501
 9JCL	R	ADP	6022	Agonist	ADENOSINE-5'-DIPHOSPHATE	small-molecule	2025-09-10		F	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@](=O)(O)OP(=O)(O)O)O)O)N	XTWYTFMLZFPYCI-KQYNXXCUSA-N		true	orthosteric	R:601
 9JCO	R	A1L35	5311265	PAM	Lysophosphatidylcholine (LPC)	small-molecule	2025-07-09		H	CC(=O)OC[C@H](COP(=O)(O)OCC[N+](C)(C)C)O	RYCNUMLMNKHWPZ-SNVBAGLBSA-O		false	allosteric_7tm	R:403
@@ -776,11 +775,6 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9N29	R	2PM	3100	Agonist	diphenhydramine	small-molecule	2026-07-15		F	CN(C)CCOC(c1ccccc1)c2ccccc2	ZZVUWRFHKOJYTH-UHFFFAOYSA-N		false	orthosteric	R:501
 9NOZ	A, B	pep		NAM	Megabody 7 (Mb7)	protein	2026-02-18					QVQLVESGGGLVQTKTTTSVIDTTNDAQNLLTQAQTIVNTLKDYCPILIAKSSSSNGGTNNANTPSWQTAGGGKNSCATFGAEFSAASDMINNAQKIVQETQQLSANQPKNITQPHNLNLNSPSSLTALAQKMLKNAQSQAEILKLANQVESDFNKLSSGHLKDYIGKCDASAISSANMTMQNQKNNWGNGCAGVEETQSLLKTSAADFNNQTPQINQAQNLANTLIQELGNNTYEQLSRLLTNDNGTNSKTSAQAINQAVNNLNERAKTLAGGTTNSPAYQATLLALRSVLGLWNSMGYAVICGGYTKSPGENNQKDFHYTDENGNGTTINCGGSTNSNGTHSYNGTNTLKADKNVSLSIEQYEKIHEAYQILSKALKQAGLAPLNSKGEKLEAHVTTSKYGSLRLSCAASGFTFSRYVMNWVRQAPGKGLEWVSGISRDGSYTDYADSVKGRFTISRDNAKDTLYLQMNSLKPEDTAVYYCSKYNSVVTTPPGQGTQVTVSSHHHHHHEPEA	unknown	extracellular_domain	
 9ODJ	D	EIG		Agonist (partial)	Mitragynine pseudoindoxyl	small-molecule	2026-01-07		F	CCC1CN2CC[C@]3([C@@H]2CC1/C(=C\OC)/C(=O)OC)C(=O)c4c(cccc4OC)N3	BAEJBRCYKACTAA-PAIVRBTDSA-N		false	orthosteric	D:502
-9OQ2	A	A1CD7	10389431	Agonist	advantame	small-molecule	2025-09-03		C	COc1ccc(cc1O)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)OC	YTKBWWKAVMSYHE-OALUTQOASA-N		false	extracellular_domain	A:901
-9OQ3	A	A1CD7	10389431	Agonist	advantame	small-molecule	2025-09-03		C	COc1ccc(cc1O)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)OC	YTKBWWKAVMSYHE-OALUTQOASA-N		false	extracellular_domain	A:901
-9OQ4	A	A1CD7	10389431	Agonist	advantame	small-molecule	2025-09-03		C	COc1ccc(cc1O)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)OC	YTKBWWKAVMSYHE-OALUTQOASA-N		false	extracellular_domain	A:901
-9OQ5	A	A1CD7	10389431	Agonist	advantame	small-molecule	2025-09-03		C	COc1ccc(cc1O)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)OC	YTKBWWKAVMSYHE-OALUTQOASA-N		false	extracellular_domain	A:901
-9OQ6	A	A1CD7	10389431	Agonist	advantame	small-molecule	2025-09-03		C	COc1ccc(cc1O)CCCN[C@@H](CC(=O)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)OC	YTKBWWKAVMSYHE-OALUTQOASA-N		false	extracellular_domain	A:901
 9OXB	R	GOQ	2236	Agonist	Aristolochic acid I	small-molecule	2026-04-22		F	COc1cccc2c1cc(c3c2c4c(cc3C(=O)O)OCO4)[N+](=O)[O-]	BBFQZRXNYIEMAW-UHFFFAOYSA-N		false	orthosteric	R:501
 9P1S	A	ZMA	176407	Antagonist	ZM241385	small-molecule	2025-12-24		C	c1cc(oc1)c2nc3nc(nc(n3n2)N)NCCc4ccc(cc4)O	PWTBZOIUWZOPFT-UHFFFAOYSA-N		false	orthosteric	A:502
 9P1S		Prostaglandin D2		Allosteric antagonist	Prostaglandin D2	lipid	2025-12-24	f					unknown	allosteric_7tm	
@@ -801,10 +795,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9UCO	G, L	pep		Agonist	Stalk peptide	peptide	2026-04-08					ANLAIIMASGELTME	unknown	orthosteric	
 9UCP	A	IXO	10104167	Agonist	Iperoxo	small-molecule	2025-10-29		D	C[N+](C)(C)CC#CCOC1=NOCC1	WXXOCGISBCTWPW-UHFFFAOYSA-N		false	orthosteric	A:500
 9UCP	C	pep		Allosteric agonist	Nanobody Nb1B4	protein	2025-10-29					QVQLQESGGGLVQAGGSLRLSCAASGSIFYGYYMGWYRQAPGKEREFVATINYGASTNYADSVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCAVRRVYVYVQRYYHYYWGQGTQVTVSS	unknown	extracellular_vestibule	
-9UOK	E, F	pep		Agonist	Norrin	protein	2025-07-16					MLLVNQSHQGFNKEHTSKMVSAIVLYVLLAAAAHSAFAKTDSSFIMDSDPRRCMRHHYVDSISHPLYKCSSKMVLLARCEGHCSQASRSEPLVSFSTVLKQPFRSSCHCCRPQTSKLKALRLRCSGGMRLTATYRYILSCHCEECNSGGSGGSGGLEVLFQGPGGSGGSGGKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKATPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGKDYKDDDDK	unknown	extracellular_domain	
 9UST	R	A1D6H	641298	Agonist	(E)-2-methoxycinnamaldehyde	small-molecule	2025-07-02		F	COc1ccccc1/C=C/C=O	KKVZAVRSVHUSPL-GQCTYLIASA-N		false	orthosteric	R:401
 9UTB	C	Sucralose	71485	Agonist	Sucralose	small-molecule	2025-07-16						unknown	extracellular_domain	
-9UTC	C	Sucralose	71485	Agonist	Sucralose	small-molecule	2025-07-16						unknown	extracellular_domain	
 9UWM	D	pep		Agonist	Cagrilintide	peptide	2026-05-27					KCNTATCATQRLAEFLRHSSNNFGPILPPTNVGSNT	unknown	orthosteric	
 9UWQ	D	pep		Agonist	Cagrilintide	peptide	2026-05-27					KCNTATCATQRLAEFLRHSSNNFGPILPPTNVGSNTP	unknown	orthosteric	
 9UXU	R, r	A1EQK	128563	Agonist	Salvinorin A	small-molecule	2026-05-27		I, J	CC(=O)O[C@H]1C[C@H]([C@@]2(CC[C@H]3C(=O)O[C@@H](C[C@@]3([C@H]2C1=O)C)c4ccoc4)C)C(=O)OC	OBSYBRPAKCASQB-AGQYDFLVSA-N		false	orthosteric	R:401, r:401
@@ -2959,7 +2951,6 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9UAP		apo	None	Apo (no ligand)	Apo (no ligand)	None	2025-10-29								
 9UK2		apo	None	Apo (no ligand)	Apo (no ligand)	None	2026-04-22								
 9UT8		apo	None	Apo (no ligand)	Apo (no ligand)	None	2025-07-16								
-9UT9		apo	None	Apo (no ligand)	Apo (no ligand)	None	2025-07-16								
 9UTA		apo	None	Apo (no ligand)	Apo (no ligand)	None	2025-07-16								
 9UWD		apo	None	Apo (no ligand)	Apo (no ligand)	None	2025-05-28								
 9V35		apo	None	Apo (no ligand)	Apo (no ligand)	None	2026-07-01								

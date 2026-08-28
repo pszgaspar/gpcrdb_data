@@ -17340,3 +17340,23 @@ ul33_hcmva:
   UniProt: ul33_hcmva
   Xtal Templ: ul33_hcmva
   Xtalised: NoXtal
+q90wj2_xenla:
+  2x551: 2x551
+  4x58: 4x58
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: q90wj2_xenla
+  Xtal Templ: q90wj2_xenla
+  Xtalised: NoXtal
+q9bml6_drome:
+  7x521: 7x521
+  7x44: 7x44
+  UniProt: q9bml6_drome
+  Xtal Templ: q9bml6_drome
+  Xtalised: NoXtal
+q9bml7_drome:
+  7x521: 7x521
+  7x44: 7x44
+  UniProt: q9bml7_drome
+  Xtal Templ: q9bml7_drome
+  Xtalised: NoXtal

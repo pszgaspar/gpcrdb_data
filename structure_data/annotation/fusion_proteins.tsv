@@ -437,12 +437,8 @@ PDB	Name
 9UAP	De novo designed fusion protein
 9UAZ	Clip fusion protein
 9UCP	De novo designed fusion protein
-9UT9	mScarlet3
-9UT9	mNeonGreen
 9UTB	mScarlet3
 9UTB	mNeonGreen
-9UTC	mScarlet3
-9UTC	mNeonGreen
 9UY3	BRIL
 9UY3	LgBiT
 9V2N	BRIL
@@ -1267,6 +1263,7 @@ PDB	Name
 9J0B	BRIL
 9J0F	BRIL
 9J0I	BRIL
+9JEA	BRIL
 9JED	BRIL
 9JEQ	BRIL
 9JEQ	LgBiT

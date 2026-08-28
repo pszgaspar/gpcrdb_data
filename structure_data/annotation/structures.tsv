@@ -591,7 +591,6 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 9IZG	lpar1_human	ELECTRON MICROSCOPY	3.04	Active	R		2025-01-01	C		
 9J31	gpr4_danre	ELECTRON MICROSCOPY	3.05	Active	R		2025-01-22	D		
 9J5V	lpar1_human	ELECTRON MICROSCOPY	2.86	Active	R		2024-11-27	D		
-9J7I	casr_human	ELECTRON MICROSCOPY	3.55	Active	A	VFT domain fragment; 7TM domain is not modeled.	2025-02-19	A		
 9J87	5ht2a_human	ELECTRON MICROSCOPY	2.84	Active	A		2026-02-25	A		
 9JCL	p2ry1_human	ELECTRON MICROSCOPY	2.76	Active	R		2025-09-10	E		
 9JCO	gpr4_human	ELECTRON MICROSCOPY	2.36	Active	R		2025-07-09	E		
@@ -675,11 +674,6 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 9O38	ts1r2_human	ELECTRON MICROSCOPY	3.0	Active	A	[HETEROMER: chains A, B, F] [MISSED_PROTOMER] at 'oligomer_analysis': GPCR roster has chains ['A', 'B', 'F'] but AI only reported ['A', 'F']. Missed: ['B']. [DB TRUNCATION: AI correctly identified chains A, F, but DB requires 1. Auto-selected primary chain A based on: Rank 4: Preserving AI's originally correct choice (Chain A)]	2025-05-14	E	ts1r3_human	B, F
 9ODG	oprm_mouse	ELECTRON MICROSCOPY	4.3	Active	R		2026-03-04	D		
 9ODJ	oprm_mouse	ELECTRON MICROSCOPY	3.0	Active	D		2026-01-07	C		
-9OQ2	ts1r2_human	ELECTRON MICROSCOPY	3.27	Intermediate	A	Extracellular domain; compact intermediate state. [HETEROMER: chains A, B] [DB TRUNCATION: AI correctly identified chains A, B, but DB requires 1. Auto-selected primary chain A based on: Rank 2: Ligand binds exclusively to GPCR Chain A]	2025-09-03	A	ts1r3_mouse	B
-9OQ3	ts1r2_human	ELECTRON MICROSCOPY	3.11	Active	A	[HETEROMER: chains A, B] [MISSED_PROTOMER] at 'oligomer_analysis': GPCR roster has chains ['A', 'B'] but AI only reported ['A']. Missed: ['B'].	2025-09-03	A	ts1r3_mouse	B
-9OQ4	ts1r2_human	ELECTRON MICROSCOPY	3.59	Intermediate	A	[HETEROMER: chains A, B] [DB TRUNCATION: AI correctly identified chains A, B, but DB requires 1. Auto-selected primary chain A based on: Rank 2: Ligand binds exclusively to GPCR Chain A]	2025-09-03	A	ts1r3_human	B
-9OQ5	ts1r2_human	ELECTRON MICROSCOPY	3.93	Intermediate	A	Extracellular domain (VFT and CRD) structure. [HETEROMER: chains A, B] [MISSED_PROTOMER] at 'oligomer_analysis': GPCR roster has chains ['A', 'B'] but AI only reported ['A']. Missed: ['B'].	2025-09-03	A	ts1r3_human	B
-9OQ6	ts1r2_human	ELECTRON MICROSCOPY	3.57	Active	A	[HETEROMER: chains A, B] [MISSED_PROTOMER] at 'oligomer_analysis': GPCR roster has chains ['A', 'B'] but AI only reported ['A']. Missed: ['B'].	2025-09-03	A	ts1r3_human	B
 9OXB	t2r43_human	ELECTRON MICROSCOPY	3.0	Active	R		2026-04-22	E		
 9P1S	aa2ar_human	ELECTRON MICROSCOPY	3.34	Inactive	A		2025-12-24	A		
 9P85	ntr1_human	ELECTRON MICROSCOPY	3.0	Active	R		2026-03-25	A		
@@ -700,11 +694,8 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 9UCO	agre1_mouse	ELECTRON MICROSCOPY	3.58	Active	H	[HOMOMER: chains G, H, L, R] [DB TRUNCATION: AI correctly identified chains H, R, but DB requires 1. Auto-selected primary chain H based on: Homomer (2 identical GPCR chains) — Rank 4: Preserving AI's originally correct choice (Chain H)]	2026-04-08	J	agre1_mouse	R
 9UCP	acm1_human	ELECTRON MICROSCOPY	2.88	Active	A		2025-10-29	A		
 9UK2	oxgr1_human	ELECTRON MICROSCOPY	2.9	Active	A		2026-04-22	A		
-9UOK	lgr4_human	ELECTRON MICROSCOPY	3.05	Active	C		2025-07-16	B		
 9UST	a0a9l0jpp9_equas	ELECTRON MICROSCOPY	3.02	Active	R		2025-07-02	D		
-9UT9	ts1r2_human	ELECTRON MICROSCOPY	3.18	Inactive	A	[HETEROMER: chains A, B] [DB TRUNCATION: AI correctly identified chains A, B, but DB requires 1. Auto-selected primary chain A based on: Rank 4: Preserving AI's originally correct choice (Chain A)]	2025-07-16	A	ts1r3_human	B
 9UTB	ts1r2_human	ELECTRON MICROSCOPY	3.59	Active	A	[HETEROMER: chains A, B] [DB TRUNCATION: AI correctly identified chains A, B, but DB requires 1. Auto-selected primary chain A based on: Rank 2: Ligand binds exclusively to GPCR Chain A]	2025-07-16	A	ts1r3_human	B
-9UTC	ts1r2_human	ELECTRON MICROSCOPY	3.33	Active	A	VFTD-focused structure; TMD is not modeled (0/7 TM helices). [HETEROMER: chains A, B] [DB TRUNCATION: AI correctly identified chains A, B, but DB requires 1. Auto-selected primary chain A based on: Rank 2: Ligand binds exclusively to GPCR Chain A]	2025-07-16	A	ts1r3_human	B
 9UWM	calcr_human	ELECTRON MICROSCOPY	3.1	Active	R		2026-05-27	E		
 9UWQ	calcr_human	ELECTRON MICROSCOPY	3.1	Active	R		2026-05-27	F		
 9UXU	oprk_human	ELECTRON MICROSCOPY	3.6	Active	r	[HOMOMER: chains R, r] [DB TRUNCATION: AI correctly identified chains R, r, but DB requires 1. Auto-selected primary chain r based on: Homomer (2 identical GPCR chains) — Rank 2: Ligand binds exclusively to GPCR Chain r] [WARNING: Ligands are bound to truncated chains R!]	2026-05-27	F	oprk_human	R
