@@ -553,7 +553,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 8XGS	F	pep		Agonist	Metastin (KP54)	peptide	2024-10-30					GTSLSPPPESSGSRQQPGLSAPHSRQIPAPQGAVLVQREKDLPNYNWNSFGLRFX	unknown	orthosteric	
 8XIO	A	A1D5D	171714579	Agonist	L-797591	small-molecule	2024-07-03		F	C[C@H](CCN)CC(C)(C)CNC(=O)[C@H](Cc1cccc2c1cccc2)NC(=O)N(CCc3ccccc3)CCc4ccccn4	MZKKCMXXGCRPGX-UYHPJTEGSA-N		false	orthosteric	A:401
 8XIP	E	pep		Agonist	Pasireotide	peptide	2024-07-03					XWKYFX	unknown	orthosteric	
-8XIQ	F	L-796778		Agonist	L-796778	small-molecule	2024-07-03						unknown	orthosteric	
+8XIQ	F	sm		Agonist	L-796778	small-molecule	2024-07-03						unknown	orthosteric	
 8XIR	F	pep		Agonist	Pasireotide	peptide	2024-07-03					XWKYFX	unknown	orthosteric	
 8XJK	R	A1D5A	5311053	Agonist	Cloprostenol	small-molecule	2024-02-28		F	c1cc(cc(c1)Cl)OC[C@@H](/C=C/[C@H]2[C@@H](C[C@@H]([C@@H]2C/C=C\CCCC(=O)O)O)O)O	VJGGHXVGBSZVMZ-QIZQQNKQSA-N		false	orthosteric	R:601
 8XJL	R	UGU	5280363	Agonist	Prostaglandin F2-alpha	small-molecule	2024-02-28		F	CCCCC[C@@H](/C=C/[C@H]1[C@@H](C[C@@H]([C@@H]1C/C=C\CCCC(=O)O)O)O)O	PXGPLTODNUVGFL-YNNPMVKQSA-N		true	orthosteric	R:601
@@ -777,7 +777,6 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9ODJ	D	EIG		Agonist (partial)	Mitragynine pseudoindoxyl	small-molecule	2026-01-07		F	CCC1CN2CC[C@]3([C@@H]2CC1/C(=C\OC)/C(=O)OC)C(=O)c4c(cccc4OC)N3	BAEJBRCYKACTAA-PAIVRBTDSA-N		false	orthosteric	D:502
 9OXB	R	GOQ	2236	Agonist	Aristolochic acid I	small-molecule	2026-04-22		F	COc1cccc2c1cc(c3c2c4c(cc3C(=O)O)OCO4)[N+](=O)[O-]	BBFQZRXNYIEMAW-UHFFFAOYSA-N		false	orthosteric	R:501
 9P1S	A	ZMA	176407	Antagonist	ZM241385	small-molecule	2025-12-24		C	c1cc(oc1)c2nc3nc(nc(n3n2)N)NCCc4ccc(cc4)O	PWTBZOIUWZOPFT-UHFFFAOYSA-N		false	orthosteric	A:502
-9P1S		Prostaglandin D2		Allosteric antagonist	Prostaglandin D2	lipid	2025-12-24	f					unknown	allosteric_7tm	
 9P85	L	pep		Agonist	NTS(8-13)	peptide	2026-03-25					RRPYIL	unknown	orthosteric	
 9PEE	A	A1CH1	146444831	Allosteric antagonist	PF-07054894	small-molecule	2025-10-01		F	Cc1cn(nc1[C@@H](C2(CCCC2)C)NC3=C(C(=O)C3=O)Nc4ccnc(c4O)C(=O)N(C)C)C	WZBSYWCLIMRAHO-QFIPXVFZSA-N		false	intracellular	A:502
 9PEE	A	A1A1W		Allosteric antagonist	OXM2	small-molecule	2025-10-01		E	c1cc(ccc1C2(CC2)C(=O)NC[C@@H]3CN(C(=O)CO3)C45CC(C4)C5)C(F)(F)F	MGXLQVNOTOHKMK-VVFCZOMOSA-N		false	allosteric_7tm	A:501
@@ -796,7 +795,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9UCP	A	IXO	10104167	Agonist	Iperoxo	small-molecule	2025-10-29		D	C[N+](C)(C)CC#CCOC1=NOCC1	WXXOCGISBCTWPW-UHFFFAOYSA-N		false	orthosteric	A:500
 9UCP	C	pep		Allosteric agonist	Nanobody Nb1B4	protein	2025-10-29					QVQLQESGGGLVQAGGSLRLSCAASGSIFYGYYMGWYRQAPGKEREFVATINYGASTNYADSVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCAVRRVYVYVQRYYHYYWGQGTQVTVSS	unknown	extracellular_vestibule	
 9UST	R	A1D6H	641298	Agonist	(E)-2-methoxycinnamaldehyde	small-molecule	2025-07-02		F	COc1ccccc1/C=C/C=O	KKVZAVRSVHUSPL-GQCTYLIASA-N		false	orthosteric	R:401
-9UTB	C	Sucralose	71485	Agonist	Sucralose	small-molecule	2025-07-16						unknown	extracellular_domain	
+9UTB	C	RRY	71485	Agonist	Sucralose	small-molecule	2025-07-16			C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CCl)O)O)CCl)O)O)Cl)O	BAQAVOSOZGMPRM-QBMZZYIRSA-N		unknown	extracellular_domain	C:1
 9UWM	D	pep		Agonist	Cagrilintide	peptide	2026-05-27					KCNTATCATQRLAEFLRHSSNNFGPILPPTNVGSNT	unknown	orthosteric	
 9UWQ	D	pep		Agonist	Cagrilintide	peptide	2026-05-27					KCNTATCATQRLAEFLRHSSNNFGPILPPTNVGSNTP	unknown	orthosteric	
 9UXU	R, r	A1EQK	128563	Agonist	Salvinorin A	small-molecule	2026-05-27		I, J	CC(=O)O[C@H]1C[C@H]([C@@]2(CC[C@H]3C(=O)O[C@@H](C[C@@]3([C@H]2C1=O)C)c4ccoc4)C)C(=O)OC	OBSYBRPAKCASQB-AGQYDFLVSA-N		false	orthosteric	R:401, r:401
